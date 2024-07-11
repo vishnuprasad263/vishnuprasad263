@@ -1,18 +1,18 @@
 # Hi, I'm Vishnu Prasad! 👋
 
-I'm currently pursuing BTech in Artificial Intelligence and Data Science, and I'm passionate about App development and Data analytics.
+I'm currently pursuing BTech in Artificial Intelligence and Data Science, and I'm passionate about exploring the realms of Data Science, AI Engineering, and Machine Learning.
 
 ## About Me
-I'm a tech enthusiast with a keen interest in exploring the intersection of AI, data science, and application development. With a strong foundation in AI and data analytics, I'm always eager to learn and apply new technologies to solve real-world problems.
+I'm a tech enthusiast with a strong foundation in AI and data analytics. I'm currently focusing on mastering the skills required for roles such as Data Scientist, Data Analyst, AI Engineer, and Machine Learning Engineer. My goal is to apply these skills to tackle complex challenges and contribute to innovative solutions.
 
 ## Current Focus
-I'm currently honing my skills in both theoretical and practical aspects of AI and data science through my BTech program. Additionally, I'm actively involved in projects related to app development and data analytics to gain hands-on experience in these fields.
+I'm honing my skills in both theoretical concepts and practical applications of AI and data science through my BTech program. Additionally, I'm actively involved in projects related to data analytics and machine learning to gain hands-on experience and deepen my understanding.
 
 ## Collaboration
-I'm open to collaborating on exciting projects related to app development, data analytics, or any innovative ideas that leverage AI and data science. Let's join forces and create something amazing together!
+I'm open to collaborating on exciting projects in the fields of data science, AI engineering, and machine learning. Whether it's developing data-driven applications, conducting insightful data analysis, or implementing cutting-edge machine learning models, I'm eager to contribute and learn from collaborative efforts.
 
 ## Contact Me
-You can reach me at [vishnuprasadh924@gmail.com](mailto:vishnuprasadh924@gmail.com) to discuss potential collaborations, opportunities, or just to say hi!
+You can reach me at [vishnuprasadh924@gmail.com](mailto:vishnuprasadh924@gmail.com) to discuss potential collaborations, opportunities, or simply to connect and share ideas!
 
 ## Let's Connect
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vishnu-prasad-h-697b56200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) to stay updated on my latest projects and activities.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vishnu-prasad-h-697b56200) to stay updated on my latest projects and activities.
